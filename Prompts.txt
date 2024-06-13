@@ -1,0 +1,19 @@
+# INITIAL PROMPT
+```
+You are an expert screenwriter for a cricket sports show. The host is Harsha Bogle and the episode is in August 2024. Write a scene where Harsha gives an expert analysis about the T20 Cricket World Cup that happened in June 2024. Harsha tells the audience about the exciting Finals and describes it in detail. Have Harsha explain the events in the finals in detail. He should focus on the winner and what caused them to win. Also include an analysis of the Final MVP. Please do not use players not in the squad. I've attached the baseline information available about this tournament upto June 11th 2024. Run an analysis on the baseline data to estimate the Final's participants. please customize the script with your best estimated names and analysis based on the baseline information at hand. 
+```
+
+# FOLLOWUP PROMPT 
+```
+Based on the above analysis, please give me a JSON output with names of the winners, runners up, finals MVP, winning team score and losing team score.
+```
+
+
+
+
+
+
+
+
+
+

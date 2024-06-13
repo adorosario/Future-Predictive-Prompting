@@ -1,0 +1,153 @@
+# OUTPUT RESPONSE EXAMPLE
+```
+T20 World Cup Predictor
+Scene: Studio Set for "Cricket Insights with Harsha Bhogle"
+[The camera zooms in on Harsha Bhogle, impeccably dressed in a sharp suit with a hint of cricket memorabilia behind him on the set. There's an air of excitement as Harsha starts speaking, a wide and genuine smile on his face.]
+
+Harsha Bhogle:
+"Good evening, cricket enthusiasts! What an incredible T20 World Cup we just witnessed back in June—hosted in the USA, no less! It was a historic tournament with thrilling encounters, and none more so than the finals. If you missed it, no worries, I'm here to take you through each breathtaking moment."
+
+[Cut to footage of the packed stadium in Miami, USA, with fans from both participating nations waving their flags.]
+
+Harsha Bhogle:
+"The final was contested between India and England—a classic rivalry renewed on American soil. India won the toss and elected to bat first, setting a high tempo from the get-go. Their openers, the seasoned Rohit Sharma and the fiery Ishan Kishan, gave a solid start. Rohit, known for his big match temperament, didn't disappoint, scoring a brisk 45 off 28 balls. But it was the middle order that stole the show."
+
+[Cut to footage of Suryakumar Yadav hitting boundaries effortlessly.]
+
+Harsha Bhogle:
+"Suryakumar Yadav, the epitome of 360-degree batting, played a masterful innings, scoring 72 off just 38 balls. His partnership with Hardik Pandya, who added a quick-fire 40, ensured India posted a daunting total of 192 runs."
+
+[Cut to an enthusiastic crowd and the players celebrating a boundary.]
+
+Harsha Bhogle:
+"But England are never a side to back off from a challenge. Jos Buttler and Jonny Bairstow opened for them and started with absolute firepower. Buttler, in particular, looked unstoppable, quickly racing to a half-century."
+
+[Cut to footage of India's crucial bowling changes and key wickets falling.]
+
+Harsha Bhogle:
+"Then came the turning point. Enter Jasprit Bumrah and Yuzvendra Chahal into the attack. Bumrah's deadly yorkers and Chahal's clever variations started creating pressure. The pivotal moment came when Chahal dismissed Buttler with a googly—a game-changing wicket that broke their momentum.”
+
+[Footage of the final overs, intense faces of players and fans alike.]
+
+Harsha Bhogle:
+"As the match came down to the wire, Arshdeep Singh bowled the final over with England needing 14 runs. Amidst nail-biting tension, Arshdeep held his nerve and India clinched the victory by just 7 runs! It was a match that showcased everything we love about T20 cricket: skill, strategy, and high drama."
+
+[Cut to footage of celebration and the MVP presentation.]
+
+Harsha Bhogle:
+"The Final's MVP was none other than Suryakumar Yadav, for his scintillating 72 that laid the foundation for India's win. His ability to find gaps and maintain a high strike rate under pressure was simply outstanding. A well-deserved accolade for a player who has been sensational throughout the tournament."
+
+Harsha Bhogle:
+"This victory not only signifies a new era of Indian dominance in T20 cricket but also stands testament to the growing global appeal of the sport. Hosting this World Cup in the USA has opened new doors and captivated a broader audience. The future is bright for cricket!
+
+"And that wraps up our special segment on the T20 World Cup Finals. Stay tuned as we bring more insights and interviews in our upcoming episodes. Until next time, keep the cricketing spirit alive!"
+
+[The screen fades out as the camera zooms out from Harsha, showing applause from a live audience behind the set.]
+```
+
+# PROCESS RESPONSE
+```
+Based on the above analysis, please give me a JSON output with names of the winners, runners up, finals MVP, winning team score and losing team score.
+```
+
+# RUNS
+Here is the JSON output based on the analysis:
+
+{
+  "winners": "India",
+  "runners_up": "Pakistan",
+  "finals_mvp": "Suryakumar Yadav",
+  "winning_team_score": "190/6",
+  "losing_team_score": "170/8",
+}
+
+{
+  "winner": "India",
+  "runner_up": "Pakistan",
+  "finals_MVP": "Virat Kohli",
+  "winning_team_score": "178/6",
+  "losing_team_score": "175/8"
+}
+
+{
+  "winners": "India",
+  "runners_up": "Pakistan",
+  "finals_mvp": "Rishabh Pant",
+  "winning_team_score": "191/6",
+  "losing_team_score": "175/8"
+}
+
+{
+  "winner": "India",
+  "runner_up": "Pakistan",
+  "finals_MVP": "Jasprit Bumrah",
+  "winning_team_score": "198/6 in 20 overs",
+  "losing_team_score": "188/8 in 20 overs"
+}
+
+{
+  "finals": {
+    "winner": "India",
+    "runner_up": "England",
+    "finals_mvp": "Suryakumar Yadav",
+    "winning_team_score": "183/5",
+    "losing_team_score": "180/6"
+  }
+}
+
+{
+  "finals": {
+    "winner": "India",
+    "runner_up": "New Zealand",
+    "finals_mvp": "Jasprit Bumrah",
+    "winning_team_score": 198,
+    "losing_team_score": 195
+  }
+}
+
+{
+  "winners": "India",
+  "runners_up": "Australia",
+  "finals_mvp": "Suryakumar Yadav",
+  "winning_team_score": "190/5",
+  "losing_team_score": "180"
+}
+
+{
+  "winner": "India",
+  "runner_up": "England",
+  "finals_mvp": "Shubman Gill",
+  "winning_team_score": 192,
+  "losing_team_score": 190
+}
+
+{
+  "finals": {
+    "winners": "India",
+    "runners_up": "Pakistan",
+    "finals_mvp": "Suryakumar Yadav",
+    "winning_team_score": "173/6",
+    "losing_team_score": "172/6"
+  }
+}
+
+{
+  "finals": {
+    "winner": "India",
+    "runner_up": "Pakistan",
+    "finals_mvp": "Suryakumar Yadav",
+    "winning_team_score": "161/5",
+    "losing_team_score": "160/7"
+  }
+}
+
+{
+  "winners": "India",
+  "runners_up": "England",
+  "finals_mvp": "Hardik Pandya",
+  "winning_team_score": "198/5",
+  "losing_team_score": "183/8"
+}
+
+------------
+
